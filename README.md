@@ -1,2 +1,2 @@
-# Instagra,m
+# Instagram
 Clone da pagina do Instagram
